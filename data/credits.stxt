@@ -22,7 +22,34 @@
     (blank)
 	(text
       (type "heading")
-      (string (_ "Current SuperTux Team"))
+      (string (_ "DiscTux"))
+    )
+    (blank)
+	(person
+      (name "Sophie \"Vaesea\" Ball")
+      (info (_ "a lot of stuff"))
+    )
+    (blank)
+    (blank)
+	(text
+      (type "heading")
+      (string (_ "People who made things that were used in this mod"))
+    )
+    (blank)
+	(person
+      (name "Eauix")
+      (info (_ "https://github.com/Eauix/Super-Tux-Additions"))
+    )
+    (blank)
+	(person
+      (name "FrostC")
+      (info (_ "https://github.com/SuperTux/supertux/pull/3185"))
+    )
+    (blank)
+    (blank)
+	(text
+      (type "heading")
+      (string (_ "0.7 SuperTux Team"))
     )
 	(blank)
 	(person

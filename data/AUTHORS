@@ -12,6 +12,9 @@ Most images were created either by grumbel or gwater. Check the log for details.
 * images/engine/editor/sparkle-file.png - Semphris, licensed CC-BY 4.0 - CONTAINS WORK BY FortAwesome/FontAwesome (the file logo), licensed under CC-BY 4.0
 * images/worldmap/shared/rocky_paths[-editor].png - Semphris, released under CC0
 * images/objects/conveyor_belt/* - submitted by RodirodDude CC BY-NC 4.0
+* Packed Snow, Snow Covering, Grey Blocks, Better Water and Blizzard Particle stuff is by Eauix's SuperTux-Additions repository. I dont have a clue as to what license the stuff is.
+* New Industrial Tiles, Better Chocolate Blocks and Remade Tux Statue is by FrostC's SuperTux Pull Request with the stuff in it (Industrial Tiles from Industrial Island V2). I still don't have a clue as to what license the stuff is
+* Time Signs are by Sophie "Vaesea" Ball (me!!!! :333)
 
 == Levels ==
 
@@ -28,67 +31,21 @@ License should be included with them.
 == Music ==
 
 All files in data/music created by wansti and licensed under GPLv2+CC-by-sa, unless stated otherwise.
-* airship_remix.ogg - from remaxim at OpenGameArt.org, permission to release under CC-BY-SA and GPL version 2 or later
-* airship_2.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* arctic_cave.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* battle_theme.ogg - from remaxim at OpenGameArt.org, permission to release under CC-BY-SA and GPL version 2 or later
-* beneath_the_rabbit_hole.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* bonuscave.ogg
-* bossattack.ogg
-* bright_thunders.ogg - by Krobonil, licensed under CC-BY-SA
-* cave.ogg
-* call_of_the_winding_path.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* chipdisko.ogg - Mortimer's Chipdisko by Lukas Nystrand as Mortimer Twang - explicit permission granted to release unter GPL and CC-by-sa.
-* clavelian_march.ogg
-* credits.ogg
-* darkforestkeep.ogg
-* forest-cave.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* forest.ogg
-* forest2.ogg
-* forest3.ogg
-* forestmap.ogg
-* forest_theme.ogg - Forest Prophecy reEducated, by Wansti and Tobias "ToBeFree" Frei (GPLv2+CC-by-sa)
-* forest-sprint.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* fortress.ogg
-* ghostforest_map.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* ghostforest.ogg
-* ghostforest2.ogg
-* greatgigantic.ogg - Based on a work by Chris Huelsbeck - We have his permission to release this under GPL.
-* shallow-green.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* halloween_1.ogg - By Forty-Two - licensed under CC-BY-SA 4.0
-* ice_music.ogg - By ZhayTee
-* intro.ogg
-* invincible.ogg
-* arctic_breeze.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* jewels.ogg - By cynicmusic/congusbongus - <http://opengameart.org/content/crystal-cave-mysterious-ambience-seamless-loop> - CC-BY 3.0/CC-BY-SA 3.0/GPL 3.0
-* leveldone.ogg
-* new_forest_map.ogg - Jason Lavallée, dual-licensed: GPL version 2 or later and CC-BY-SA
-* salcon.ogg - Salsa Con Carne by Mystical - Replaced due to licensing issues (some non-free samples are used)
-    by a work-in-progress remix in trunk and the 0.3.x branch (r4585), for which we have permission to release under GPL and CC-by-sa. - wansti
-* saharan_penguin.ogg - by Enol "Meji" Monte, licensed CC BY-SA
-* theme.ogg
-* treeboss.ogg
-* tropicalbreeze.ogg - by flan, licensed CC-BY-SA 4.0
-* wisphunt.ogg
-* worldmap_old.ogg - By ZhayTee
-* voc-***.ogg
-* night.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* worldmap_ice.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* sunset.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* skylevel.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* midday.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* midday_alt.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* cavetheme.ogg - By SnugglyBun, based on the original cave theme by Wansti. licensed under CC-BY-SA 4.0
-* cavetheme_alt.ogg - By SnugglyBun, cover of the original cave theme by Wansti. licensed under CC-BY-SA 4.0
-* crystalmine_intro.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* crystalmine_main.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* crystalmine_underwater.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* glacier.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* snowfort.ogg - By SnugglyBun, licensed under CC-BY-SA 4.0
-* icecastle.ogg - By SnugglyBun, based on the original fortress theme by Wansti. licensed under CC-BY-SA 4.0
-* yetiboss.ogg - By SnugglyBun, cover of the original boss battle theme by Wansti. licensed under CC-BY-SA 4.0
-* forest_midday.ogg - By SnugglyBun, based on the original forest theme by Wansti. licensed under CC-BY-SA 4.0
-* forest_midday_alt.ogg - By SnugglyBun, based on forest.ogg and forest3.ogg by Wansti. licensed under CC-BY-SA 4.0
+* credits.ogg - created by wansti and licensed under GPLv2+CC-by-sa, also i forgot who made the higher-quality version of it that was put in supertux a while ago
+* intro.ogg - created by wansti and licensed under GPLv2+CC-by-sa
+* invincible.ogg - created by wansti and licensed under GPLv2+CC-by-sa
+* leveldone.ogg - created by wansti and licensed under GPLv2+CC-by-sa
+* theme.ogg - created by wansti and licensed under GPLv2+CC-by-sa
+* forest_midday.ogg - By SnugglyBun, based on the original forest theme by Wansti. licensed under CC-BY-SA 4.0 (This is planned to be used for Forest Fantasy Zone's present song)
+* desert_diamond.ogg Present - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* desert_diamond.ogg Past - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* desert_diamond.ogg Bad Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* desert_diamond.ogg Good Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* icyisland.ogg Present - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
+* icyisland.ogg Past - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
+* icyisland.ogg Bad Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
+* icyisland.ogg Good Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
+* forest_fantasy.ogg - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to forest_midday.ogg by SnugglyBun)
 
 == Scripts ==
 
@@ -167,3 +124,5 @@ These are just more code.
 * yeti_finish.ogg - self-made by MatzeB
 * yeti_gna.wav - self-made by MatzeB
 * yeti_roar.wav - self-made by MatzeB
+* past.ogg - Made using a bunch of sounds made by Sega for Sonic CD.
+* future.ogg - Made using a bunch of sounds made by Sega for Sonic CD.
