@@ -31,6 +31,20 @@
 		0   0   468 469
 	)
 )
+
+(tilegroup
+	(name (_ "Radical Ruins"))
+	(tiles
+		1021 1022 1023 0
+        1024 1025 1026 0
+        1027 1028 1029 0
+        1030 1031 0    0
+		1032 1033 1034 0
+        1035 1036 1037 0
+        1038 1039 1040 0
+	)
+)
+
 (tiles
 	(width 5)(height 9)
 	(images "worldmap/ice/land.png")
@@ -1026,6 +1040,27 @@
 		1007 0    1008 1009
 		1010 1011 1012 1013
 		0    1014 1015 1016
+	)
+)
+
+(tiles
+	(width 3)(height 4)
+	(images "worldmap/ruins/main.png")
+	(ids
+		1021 1022 1023
+        1024 1025 1026
+        1027 1028 1029
+        1030 1031 0
+	)
+)
+
+(tiles
+	(width 3)(height 3)
+	(images "worldmap/ruins/rainbow.png")
+	(ids
+		1032 1033 1034
+        1035 1036 1037
+        1038 1039 1040
 	)
 )
 
