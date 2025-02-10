@@ -57,6 +57,10 @@
       (name "remaxim")
       (info (_ "The song that was uploaded to opengameart.org named Boss Batle 6 and it's alternate version."))
     )
+	(person
+      (name "Ted Kerr aka Wolfgang_")
+      (info (_ "The song that was uploaded to opengameart.org named Summer Resort Theme, also known as Summer Challenge."))
+    )
     (blank)
     (blank)
 	(text
