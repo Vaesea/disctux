@@ -47,7 +47,7 @@
     )
 	(person
       (name "Industrial Team")
-      (info (_ "Pipe Backgrounds and they also made the new industrial tiles, I credited FrostC for it because I got it from a pull request on the SuperTux Repository"))
+      (info (_ "Pipe Backgrounds and they also made the new industrial tiles, I also credited FrostC for it because I got it from a pull request on the SuperTux Repository and the pull request was made by FrostC"))
     )
     (blank)
     (blank)
