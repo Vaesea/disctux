@@ -14,6 +14,8 @@ Most images were created either by grumbel or gwater. Check the log for details.
 * images/objects/conveyor_belt/* - submitted by RodirodDude CC BY-NC 4.0
 * Packed Snow, Snow Covering, Grey Blocks, Better Water and Blizzard Particle stuff is by Eauix's SuperTux-Additions repository. I dont have a clue as to what license the stuff is.
 * New Industrial Tiles, Better Chocolate Blocks and Remade Tux Statue is by FrostC's SuperTux Pull Request with the stuff in it (Industrial Tiles from Industrial Island V2). I still don't have a clue as to what license the stuff is
+* Pipe Backgrounds are made by Industrial Team, I only modified them to have both a good future and bad future version of the backgrounds in this mod.
+* Also, new industrial tiles are also made by Industrial Team as far as I know too
 * Time Signs are by Sophie "Vaesea" Ball (me!!!! :333)
 
 == Levels ==
@@ -37,15 +39,16 @@ All files in data/music created by wansti and licensed under GPLv2+CC-by-sa, unl
 * leveldone.ogg - created by wansti and licensed under GPLv2+CC-by-sa
 * theme.ogg - created by wansti and licensed under GPLv2+CC-by-sa
 * forest_midday.ogg - By SnugglyBun, based on the original forest theme by Wansti. licensed under CC-BY-SA 4.0 (This is planned to be used for Forest Fantasy Zone's present song)
-* desert_diamond.ogg Present - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
-* desert_diamond.ogg Past - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
-* desert_diamond.ogg Bad Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
-* desert_diamond.ogg Good Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
-* icyisland.ogg Present - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
-* icyisland.ogg Past - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
-* icyisland.ogg Bad Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
-* icyisland.ogg Good Future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
-* forest_fantasy.ogg - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to forest_midday.ogg by SnugglyBun)
+* desert_diamond.ogg present, past, bad future, good future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* icyisland.ogg present, past, bad future, good future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to i think some of the icy island songs in 0.7 that were made by SnugglyBun)
+* forest_fantasy.ogg past - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0 (Has references to forest_midday.ogg by SnugglyBun)
+* radical_ruins.ogg present, past, bad future, good future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* beauty_beach.ogg past, bad future, good future - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* crystalline_cavern.ogg past - By Sophie "Vaesea" Ball, licensed under CC0, contains a reference to Crystal Cave by cynicmusic on opengameart.org and pixelsphere.org. Also the Cynic Project.
+* adel_fight.ogg - By Sophie "Vaesea" Ball, licensed under CC-BY-SA-4.0
+* boss_battle_6.ogg + boss_battle_6_alternate.ogg - By nene on opengameart.org, licensed under CC0
+* boss_theme.ogg - By remaxim on opengameart.org, licensed under CC-BY-SA-3.0, GPL 2.0, GPL 3.0
+* minilevel.ogg - By Sonic Team / Sega for Sonic 2 (Original), Neibarg_Mylers on onlinesequencer.net (Recreation) and Sophie "Vaesea" Ball (Replaced instruments with soundfonts), will be removed soon.
 
 == Scripts ==
 

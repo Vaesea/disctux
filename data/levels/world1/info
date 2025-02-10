@@ -1,6 +1,6 @@
 (supertux-level-subset
-  (title (_ "Icy Island Zone"))
-  (description (_ "Zone 1"))
+  (title (_ "Icy Island Round"))
+  (description (_ "R1"))
   (levelset #t)
   (contrib-type "user")
   (hide-from-contribs #f)

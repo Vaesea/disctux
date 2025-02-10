@@ -43,11 +43,19 @@
     (blank)
 	(person
       (name "FrostC")
-      (info (_ "New Industrial Tiles, New Tux Statue"))
+      (info (_ "New Industrial Tiles, Better Chocolate Blocks, New Tux Statue, all from a SuperTux Pull Request"))
     )
 	(person
       (name "Industrial Team")
       (info (_ "Pipe Backgrounds and they also made the new industrial tiles, I also credited FrostC for it because I got it from a pull request on the SuperTux Repository and the pull request was made by FrostC"))
+    )
+	(person
+      (name "Nene")
+      (info (_ "The song that was uploaded to opengameart.org named Boss Batle 6 and it's alternate version."))
+    )
+	(person
+      (name "remaxim")
+      (info (_ "The song that was uploaded to opengameart.org named Boss Batle 6 and it's alternate version."))
     )
     (blank)
     (blank)
