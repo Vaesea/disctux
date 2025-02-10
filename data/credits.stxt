@@ -38,12 +38,16 @@
     (blank)
 	(person
       (name "Eauix")
-      (info (_ "https://github.com/Eauix/Super-Tux-Additions"))
+      (info (_ "Packed Snow, Snow Covering, Better Water"))
     )
     (blank)
 	(person
       (name "FrostC")
-      (info (_ "https://github.com/SuperTux/supertux/pull/3185"))
+      (info (_ "New Industrial Tiles, New Tux Statue"))
+    )
+	(person
+      (name "Industrial Team")
+      (info (_ "Pipe Backgrounds and they also made the new industrial tiles, I credited FrostC for it because I got it from a pull request on the SuperTux Repository"))
     )
     (blank)
     (blank)
