@@ -11,8 +11,7 @@ which I know is still Icy Islands but whatever) and it has time
 travel, with Sonic CD's timelines such as Past, Present, Good Future
 and Bad Future, which all means it's SuperTux but Sonic CD.
 
-I'm aware there's probably something out there named SuperTux CD or
-something like that, which is why I named this DiscTux.
+I'm aware there's probably something out there that's like SuperTux + Sonic CD, which is why I named this DiscTux.
 
 ## Worlds / Zones
 
@@ -22,13 +21,15 @@ Icy Island Zone (Icy Island) (II)
 
 Crystalline Cavern Zone (Crystal Mine) (CC)
 
+### Planned For Demo 2, excluding Demo 1 zones
+
 Forest Fantasy Zone (Rooted Forest) (FF)
 
 Volcanic Vacation Zone (VV)
 
 Desert Diamond Zone (DD)
 
-### Planned for Demo 2, excluding Demo 1 zones, can only exist once Tropical Paradise is at least almost fully added to SuperTux
+### Planned for Demo 3, excluding Demo 1 zones, can only exist once Tropical Paradise is at least almost fully added to SuperTux
 
 Beauty Beach Zone (Tropical Paradise 1) (BB)
 
@@ -38,10 +39,22 @@ Halloween Horror Zone (Halloween Island / Halloween 2014) (HH)
 
 ### Planned for the full thing, excluding Demo 1 + 2 zones, can only exist once Mountain Peak's base tileset is added to SuperTux
 
-Maniac Mountain Zone (Mountain Peaks) (i know it's a terrible name) (MM)
+Manic Mountain Zone (Mountain Peaks) (i know it's a terrible name) (MM)
 
-Sadism Stronghold Zone (Nolok's Castle) (uses the old castle background tileset thingy) (SS)
+Sadistic Stronghold Zone (Nolok's Castle) (uses the old castle background tileset thingy) (SS)
+
+### Planned to be added on later after the full thing, can only exist once Mountain Peak's base tileset is added to SuperTux
+
+*Extra World - "The Bonus Rounds":*
+
+Woodland Winter Zone (https://www.youtube.com/watch?v=CXOJVytKXI0) (WW)
+
+Pyramid Panic Zone (PP)
+
+Vertical Venture Zone (Mountain Peaks + 3DS Celeste) (VV)
+
+Artifical Asteroid Zone (Death Egg but less technology, more rock) (AA) (AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) (screamin' for me baby)
 
 ## Development status
 
-This has only just started development.
+Icy Island is almost finished, and development on Crystalline Cavern is next.
