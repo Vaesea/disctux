@@ -50,13 +50,13 @@ if(! ("key" in this))
  key <- {};
 
 local x = 10;
-local y = 10;
+local y = -10;
 
 foreach(name in ["air", "earth"])
 {
   if(! (name in key) ) {
     key[name] <- FloatingImage("images/objects/keys/key_" + name + ".sprite");
-    key[name].set_anchor_point(ANCHOR_TOP_LEFT);
+    key[name].set_anchor_point(ANCHOR_BOTTOM_LEFT);
     key[name].set_pos(x, y);
     key[name].set_visible(true);
   }
