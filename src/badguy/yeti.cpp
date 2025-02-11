@@ -24,6 +24,7 @@
 #include "badguy/yeti_stalactite.hpp"
 #include "math/random.hpp"
 #include "object/bigsnowball.hpp"
+#include "object/snowman.hpp"
 #include "object/camera.hpp"
 #include "object/player.hpp"
 #include "sprite/sprite.hpp"
