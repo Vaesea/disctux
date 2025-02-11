@@ -1,3 +1,6 @@
+# FL Studio Project Files because im paranoid about accidentally saving one in this repo
+*.flp
+
 # Build Files
 build/
 build.*/
