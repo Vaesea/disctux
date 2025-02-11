@@ -34,17 +34,17 @@
 namespace
 {
 const float RUN_VX = 350; /**< Horizontal speed while running. */
-const float RUN_PINCH_VX = 400; /**< Horizontal speed while running. */
+const float RUN_PINCH_VX = 500; /**< Horizontal speed while running. */
 
-const float JUMP_UP_VY = -750; /**< Vertical speed while jumping on the dais. */
+const float JUMP_UP_VY = -550; /**< Vertical speed while jumping on the dais. */
 
-const float STOMP_VY = -300; /**< Vertical speed while stomping on the dais. */
+const float STOMP_VY = -400; /**< Vertical speed while stomping on the dais. */
 
 const float RUN_DISTANCE = 1060; /**< Distance between the x-coordinates of left and right end positions. */
 const float JUMP_SPACE = 448; /**< Distance between the jump position and the stand position. */
 const float BEFORE_WAIT = 3;
-const float BALL_WAIT = 2;
-const float STOMP_WAIT = 0.5; /**< Time we stay on the dais before jumping again. */
+const float BALL_WAIT = 1;
+const float STOMP_WAIT = 0.1; /**< Time we stay on the dais before jumping again. */
 const float SAFE_TIME = 1; /**< The time we are safe when Tux just hit us. */
 
 const float YETI_SQUISH_TIME = 3;
@@ -408,14 +408,14 @@ void
 Yeti::summon_snowball()
 {
   Vector bs_pos = get_pos() + Vector(m_dir == Direction::LEFT ? -32.f : (get_bbox().get_width() + 1.f), 0.f);
-  Sector::get().add<BouncingSnowball>(bs_pos, m_dir, 150.f * (m_pinch_mode ? 1.2f : 1.f));
+  Sector::get().add<BouncingSnowball>(bs_pos, m_dir, 200.f * (m_pinch_mode ? 2.4f : 2.f));
 }
 
 void
 Yeti::summon_big_snowball()
 {
   Vector bs_pos = Vector(get_bbox().get_middle().x - 44.f, get_bbox().get_top() - 89.f);
-  Sector::get().add<BigSnowball>(bs_pos, m_dir, true);
+  Sector::get().add<Snowman>(bs_pos, m_dir, true);
 }
 
 void

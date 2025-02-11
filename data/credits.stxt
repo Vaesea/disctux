@@ -38,16 +38,20 @@
     (blank)
 	(person
       (name "Eauix")
-      (info (_ "Packed Snow, Snow Covering, Better Water"))
+      (info (_ "Packed Snow, Snow Covering, Extra Bonus and Better Water, all from Eauix's SuperTux Additions Repository"))
     )
     (blank)
 	(person
       (name "FrostC")
-      (info (_ "New Industrial Tiles, Better Chocolate Blocks, New Tux Statue, all from a SuperTux Pull Request"))
+      (info (_ "Better Chocolate Blocks, New Tux Statue, all from a SuperTux Pull Request."))
     )
 	(person
       (name "Industrial Team")
-      (info (_ "Pipe Backgrounds and they also made the new industrial tiles, I also credited FrostC for it because I got it from a pull request on the SuperTux Repository and the pull request was made by FrostC"))
+      (info (_ "Pipe Backgrounds and new Industrial Tiles, all from Industrial Island V2."))
+    )
+	(person
+      (name "extra info about the previous 2 credits")
+      (info (_ "New Industrial Tiles is part of the SuperTux Pull Request by FrostC which is where I got those from."))
     )
 	(person
       (name "Nene")
@@ -60,6 +64,10 @@
 	(person
       (name "Ted Kerr aka Wolfgang_")
       (info (_ "The song that was uploaded to opengameart.org named Summer Resort Theme, also known as Summer Challenge."))
+    )
+	(person
+      (name "cynicmusic and congusbongus")
+      (info (_ "The songs that were uploaded to opengameart named Crystal Cave and Mysterious Ambience, congusbongus made the stitched-together version"))
     )
     (blank)
     (blank)
