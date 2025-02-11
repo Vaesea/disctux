@@ -65,7 +65,7 @@
     (blank)
 	(text
       (type "heading")
-      (string (_ "0.7 SuperTux Team"))
+      (string (_ "SuperTux Credits"))
     )
 	(blank)
 	(person
@@ -131,7 +131,7 @@
 	(blank)
     (text
       (type "heading")
-      (string (_ "Original Developers"))
+      (string (_ "Original SuperTux Developers"))
     )
     (blank)
     (person
@@ -246,7 +246,7 @@
     (blank)
     (text
       (type "heading")
-      (string (_ "Graphics"))
+      (string (_ "SuperTux Graphics"))
     )
     (blank)
     (person
@@ -306,7 +306,7 @@
     (blank)
     (text
       (type "heading")
-      (string (_ "Level Design"))
+      (string (_ "SuperTux Level Design"))
     )
     (blank)
 	(person
@@ -349,7 +349,7 @@
     (blank)
     (text
       (type "heading")
-      (string (_ "Music"))
+      (string (_ "SuperTux Music"))
     )
     (blank)
     (text
@@ -407,7 +407,7 @@
     (blank)
     (text
       (type "heading")
-      (string (_ "Sound"))
+      (string (_ "SuperTux Sound"))
     )
     (blank)
     (text
@@ -490,7 +490,7 @@
     (blank)
     (text
       (type "heading")
-      (string (_ "Additional contributors"))
+      (string (_ "Additional SuperTux Contributors"))
     )
     (blank)
     (person
@@ -708,7 +708,7 @@
     (blank)
     (text
       (type "heading")
-      (string (_ "Localization"))
+      (string (_ "SuperTux Localization"))
     )
     (blank)
     (text
@@ -1280,6 +1280,11 @@
       )
       (blank)
       (person
+        (name "Larry Ewing")
+        (info (_ "Creator of Tux, the Linux penguin"))
+      )
+      (blank)
+      (person
         (name  (_ "SDL, OpenAL and OpenGL"))
         (info (_ "For making such a great gaming experience
         possible on Linux"))
@@ -1298,7 +1303,7 @@
       (blank)
       (text
         (type "normal")
-        (string (_ "Visit our webpage at"))
+        (string (_ "Visit the webpage at"))
       )
       (text
         (type "reference")
