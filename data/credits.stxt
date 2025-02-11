@@ -1287,7 +1287,7 @@
       (blank)
       (person
         (name  (_ "and you, the player"))
-        (info (_ "for giving this game a chance and playing it"))
+        (info (_ "for giving this mod a chance and playing it"))
       )
       (blank)
       (blank)
@@ -1302,54 +1302,7 @@
       )
       (text
         (type "reference")
-        (string "https://supertux.org")
-      )
-      (blank)
-      (text
-        (type "normal")
-        (string (_ "Or visit us directly at IRC:"))
-      )
-      (text
-        (type "reference")
-        (string (_ "#supertux at web.libera.chat"))
-      )
-      (blank)
-      (text
-        (type "normal")
-        (string (_ "Or at our Forum:"))
-      )
-      (text
-        (type "reference")
-        (string "https://groups.f-hub.org/supertux")
-      )
-      (blank)
-      (text
-        (type "normal")
-        (string (_ "Comments, ideas and suggestions"))
-      )
-      (text
-        (type "normal")
-        (string (_ "go to our mailing list"))
-      )
-      (text
-        (type "reference")
-        (string "supertux-devel@lists.lethargik.org")
-      )
-      (blank)
-      (text
-        (type "normal")
-        ; l10n: typo contact
-        (string (_ "Typographical errors can be"))
-      )
-      (text
-        (type "normal")
-        ; l10n: typo contact
-        (string (_ "reported to"))
-      )
-      (text
-        (type "reference")
-        ; l10n: typo contact, see <https://github.com/SuperTux/supertux/issues/611>
-        (string (_ "supertux-devel@lists.lethargik.org"))
+        (string "https://disctux.straw.page/")
       )
       (blank)
       (blank)
@@ -1361,11 +1314,11 @@
       (blank)
       (text
         (type "normal")
-        (string (_ "…with localization?"))
+        (string (_ "…with development?"))
       )
       (text
         (type "reference")
-        (string "https://www.transifex.com/arctic-games/supertux/")
+        (string "https://github.com/Vaesea/disctux")
       )
       (blank)
       (blank)
@@ -1375,7 +1328,7 @@
       )
       (text
         (type "reference")
-        (string "https://github.com/supertux")
+        (string "theres nothing else!!!!!! u just got troll")
       )
       (blank)
       (blank)
@@ -1391,12 +1344,12 @@
       (blank)
       (text
         (type "heading")
-        (string "SuperTux")
+        (string "DiscTux")
       )
       (blank)
 	  (text
         (type "normal")
-        (string (_ "Penny awaits you in warmer temperatures!"))
+        (string (_ "Penny awaits you in a forest... maybe."))
       )
 	  (blank)
   )
