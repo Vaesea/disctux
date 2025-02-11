@@ -24,7 +24,6 @@
 #include "badguy/yeti_stalactite.hpp"
 #include "math/random.hpp"
 #include "object/bigsnowball.hpp"
-#include "badguy/snowman.hpp"
 #include "object/camera.hpp"
 #include "object/player.hpp"
 #include "sprite/sprite.hpp"
@@ -416,7 +415,7 @@ void
 Yeti::summon_big_snowball()
 {
   Vector bs_pos = Vector(get_bbox().get_middle().x - 44.f, get_bbox().get_top() - 89.f);
-  Sector::get().add<Snowman>(bs_pos, m_dir, true);
+  Sector::get().add<BigSnowball>(bs_pos, m_dir, true);
 }
 
 void
