@@ -5,6 +5,13 @@ function startlevel()
   Effect.four_to_three(0);
 }
 
+function startlevelccbf()
+{
+  Camera.stop_earthquake();
+  sector.settings.set_gravity(4);
+  Effect.four_to_three(0);
+}
+
 function finishlevel()
 {
   Tux.use_scripting_controller(true);

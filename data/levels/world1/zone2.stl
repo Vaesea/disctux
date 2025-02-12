@@ -1,8 +1,8 @@
 (supertux-level
   (version 3)
-  (name (_ "Icy Island Zone 2"))
+  (name (_ "Learning About Time Travel"))
   (author "Sophie Ball")
-  (note (_ "\"Learning About Time Travel\""))
+  (note (_ "Zone 2"))
   (license "CC-BY-SA 4.0 International")
   (allow-item-pocket "inherit")
   (icon "")
