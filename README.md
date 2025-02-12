@@ -17,44 +17,46 @@ I'm aware there's probably something out there that's like SuperTux + Sonic CD, 
 
 ### Planned for Demo 1
 
-Icy Island Zone (Icy Island) (II)
+Icy Island Round (Icy Island) (II) (R1)
 
-Crystalline Cavern Zone (Crystal Mine) (CC)
+Crystalline Cavern Round (Crystal Mine) (CC) (R2)
 
-### Planned For Demo 2, excluding Demo 1 zones
+### Planned For Demo 2, excluding Demo 1 rounds
 
-Forest Fantasy Zone (Rooted Forest) (FF)
+Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R2.5)
 
-Volcanic Vacation Zone (VV)
+Forest Fantasy Round (Rooted Forest) (FF) (R3)
 
-Desert Diamond Zone (DD)
+Volcanic Vacation Round (VV) (R4)
 
-### Planned for Demo 3, excluding Demo 1 zones, can only exist once Tropical Paradise is at least almost fully added to SuperTux
+Desert Diamond Round (DD) (R5)
 
-Beauty Beach Zone (Tropical Paradise 1) (BB)
+### Planned for Demo 3, excluding Demo 1 round, can only exist once Tropical Paradise is at least almost fully added to SuperTux
 
-Joyous Jungle Zone (Tropical Paradise 2) (JJ)
+Beauty Beach Round (Tropical Paradise 1) (BB) (R6)
 
-Halloween Horror Zone (Halloween Island / Halloween 2014) (HH)
+Joyous Jungle Round (Tropical Paradise 2) (JJ) (R7)
+                                                   
+Halloween Horror Round (Halloween Island / Halloween 2014) (HH) (R8)
 
-### Planned for the full thing, excluding Demo 1 + 2 zones, can only exist once Mountain Peak's base tileset is added to SuperTux
+### Planned for the full thing, excluding Demo 1 + 2 rounds, can only exist once Mountain Peak's base tileset is added to SuperTux
 
-Manic Mountain Zone (Mountain Peaks) (i know it's a terrible name) (MM)
+Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R9)
 
-Sadistic Stronghold Zone (Nolok's Castle) (uses the old castle background tileset thingy) (SS)
+Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (SS) (R10)
 
 ### Planned to be added on later after the full thing, can only exist once Mountain Peak's base tileset is added to SuperTux
 
 *Extra World - "The Bonus Rounds":*
 
-Woodland Winter Zone (https://www.youtube.com/watch?v=CXOJVytKXI0) (WW)
+Woodland Winter Round (https://www.youtube.com/watch?v=CXOJVytKXI0) (WW)
 
-Pyramid Panic Zone (PP)
+Pyramid Panic Round (PP)
 
-Vertical Venture Zone (Mountain Peaks + 3DS Celeste) (VV)
+Vertical Venture Round (Mountain Peaks + 3DS Celeste) (VV)
 
-Artifical Asteroid Zone (Death Egg but less technology, more rock) (AA) (AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) (screamin' for me baby)
+Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) (screamin' for me baby)
 
 ## Development status
 
-Icy Island is almost finished, and development on Crystalline Cavern is next.
+Demo 1 is almost finished.
