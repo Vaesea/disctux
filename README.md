@@ -11,7 +11,7 @@ which I know is still Icy Islands but whatever) and it has time
 travel, with Sonic CD's timelines such as Past, Present, Good Future
 and Bad Future, which all means it's SuperTux but Sonic CD.
 
-I'm aware there's probably something out there that's like SuperTux + Sonic CD, which is why I named this DiscTux.
+I'm aware there's probably something out there that's like SuperTux + Sonic CD, but I don't really care.
 
 ## Worlds / Zones
 
