@@ -395,11 +395,6 @@ Camera.stop_earthquake();")
       (x 13056)
       (y 160)
     )
-    (bouncingsnowball
-      (z-pos 50)
-      (x 13504)
-      (y 288)
-    )
     (camera
       (name "Camera")
       (mode "normal")
@@ -888,11 +883,6 @@ Camera.stop_earthquake();")
       (z-pos 51)
       (x 13056)
       (y 160)
-    )
-    (bouncingsnowball
-      (z-pos 50)
-      (x 13504)
-      (y 288)
     )
     (camera
       (name "Camera")
