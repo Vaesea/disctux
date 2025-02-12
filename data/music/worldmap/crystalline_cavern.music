@@ -1,0 +1,5 @@
+(supertux-music
+  (file "crystalline_cavern.ogg")
+  (loop-begin 16)
+  (loop-at 32)
+)

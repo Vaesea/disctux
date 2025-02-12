@@ -30,6 +30,7 @@
       (y 16)
     )
     (music
+      (file "/music/worldmap/midday.music")
     )
     (special-tile
       (z-pos 50)

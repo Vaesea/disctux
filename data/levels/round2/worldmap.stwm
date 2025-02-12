@@ -38,6 +38,7 @@
       (y 16)
     )
     (music
+      (file "/music/worldmap/crystalline_cavern.music")
     )
     (teleporter
       (z-pos 50)
