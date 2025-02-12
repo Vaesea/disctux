@@ -51,7 +51,7 @@
     )
     (teleporter
       (z-pos 50)
-      (worldmap "/levels/Crystalline_Cavern_Round/worldmap.stwm")
+      (worldmap "/levels/round2/worldmap.stwm")
       (sector "main")
       (spawnpoint "main")
       (message (_ "Go to Crystalline Cavern?"))
