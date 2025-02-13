@@ -34,7 +34,7 @@
 #include "supertux/profile.hpp"
 #include "supertux/profile_manager.hpp"
 #include "supertux/resources.hpp"
-#include "supertux/savegame.hpp"
+#include "supertux/savegame.hpp"                                                                                                                                                                            
 #include "supertux/screen_manager.hpp"
 #include "supertux/sector.hpp"
 #include "supertux/world.hpp"
@@ -268,9 +268,9 @@ void
 TitleScreen::refresh_copyright_text()
 {
   // cppcheck-suppress unknownMacro
-  m_copyright_text = "SuperTux " PACKAGE_VERSION "\n" +
-    _("Copyright") + " (c) 2003-2025 SuperTux Devel Team\n" +
-    _("This game comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to\n"
+  m_copyright_text = "DiscTux " PACKAGE_VERSION "\n" +
+    _("Copyright") + " i have no idea what a copyright is\n" +
+    _("This mod comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to\n"
       "redistribute it under certain conditions; see the license file for details.\n");
 }
 

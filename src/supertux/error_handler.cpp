@@ -454,7 +454,7 @@ ErrorHandler::report_error(const std::string& details)
   std::stringstream url;
 
   // cppcheck-suppress unknownMacro
-  url << "https://github.com/supertux/supertux/issues/new"
+  url << "https://github.com/Vaesea/disctux/issues/new"
          "?template=crash.yml"
          "&labels=type:crash,status:needs-confirmation"
          "&supertux-version=" << FileSystem::escape_url(PACKAGE_VERSION) <<
