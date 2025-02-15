@@ -1,4 +1,4 @@
-# DiscTux
+# DiscTux (Contains spoilers for current and future versions)
 
 SuperTux is a jump'n'run game with strong inspiration from the
 Super Mario Bros. games for the various Nintendo platforms.
@@ -13,9 +13,7 @@ and Bad Future, which all means it's SuperTux but Sonic CD.
 
 I'm aware there's probably something out there that's like SuperTux + Sonic CD, but I don't really care.
 
-## Worlds / Zones
-
-### Planned for Demo 1
+## Worlds / Zones (Demo 1)
 
 Icy Island Round (Icy Island) (II) (R1)
 
@@ -23,27 +21,29 @@ Crystalline Cavern Round (Crystal Mine) (CC) (R2)
 
 ### Planned For Demo 2, excluding Demo 1 rounds
 
-Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R2.5)
+Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R2.5) (Secret)
 
-Forest Fantasy Round (Rooted Forest) (FF) (R3)
+Radical Ruins Round (RR) (R3) (Secret)
 
-Volcanic Vacation Round (VV) (R4)
+Forest Fantasy Round (Rooted Forest) (FF) (R4)
 
-Desert Diamond Round (DD) (R5)
+Volcanic Vacation Round (VV) (R5)
+
+Desert Diamond Round (DD) (R6) (Secret)
 
 ### Planned for Demo 3, excluding Demo 1 round, can only exist once Tropical Paradise is at least almost fully added to SuperTux
 
-Beauty Beach Round (Tropical Paradise 1) (BB) (R6)
+Beauty Beach Round (Tropical Paradise 1) (BB) (R7)
 
-Joyous Jungle Round (Tropical Paradise 2) (JJ) (R7)
+Joyous Jungle Round (Tropical Paradise 2) (JJ) (R8)
                                                    
-Halloween Horror Round (Halloween Island / Halloween 2014) (HH) (R8)
+Halloween Horror Round (Halloween Island / Halloween 2014) (HH) (R9)
 
 ### Planned for the full thing, excluding Demo 1 + 2 rounds, can only exist once Mountain Peak's base tileset is added to SuperTux
 
-Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R9)
+Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R10)
 
-Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (SS) (R10)
+Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (SS) (R11)
 
 ### Planned to be added on later after the full thing, can only exist once Mountain Peak's base tileset is added to SuperTux
 
@@ -59,4 +59,4 @@ Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAA
 
 ## Development status
 
-Demo 1 is almost finished.
+Demo 1 is finished, Demo 2 will start development soon in a different branch.
