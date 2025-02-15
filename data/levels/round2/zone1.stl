@@ -118,7 +118,7 @@ startlevel();")
     )
     (infoblock
       (z-pos 51)
-      (message (_ "There's no time machines here...
+      (message (_ "There's no time machines in this zone...
 Not even a crystal one."))
       (x 64)
       (y 640)
