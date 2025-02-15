@@ -12,8 +12,8 @@ if(WIN32 AND NOT UNIX)
           DESTINATION ${INSTALL_SUBDIR_BIN}
           OPTIONAL)
 
-  install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/mk/msvc/run_supertux.bat
-                ${CMAKE_CURRENT_SOURCE_DIR}/mk/msvc/run_supertux_portable.bat
+  install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/mk/msvc/run_disctux.bat
+                ${CMAKE_CURRENT_SOURCE_DIR}/mk/msvc/run_disctux_portable.bat
           DESTINATION ".")
 
   option(PACKAGE_VCREDIST "Package the VCREDIST libraries with the program" OFF)
