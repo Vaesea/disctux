@@ -118,7 +118,8 @@ startlevel();")
     )
     (infoblock
       (z-pos 51)
-      (message (_ "This round doesn't have any way to access time periods other than the present in this zone, somehow."))
+      (message (_ "There's no time machines here...
+Not even a crystal one."))
       (x 64)
       (y 640)
     )
