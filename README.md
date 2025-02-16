@@ -59,4 +59,4 @@ Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAA
 
 ## Development status
 
-Demo 1 is finished, Demo 2 is starting development now in this branch.
+Demo 1 is finished, Demo 2 is starting development now in a different branch.
