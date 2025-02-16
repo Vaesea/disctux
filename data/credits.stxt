@@ -57,6 +57,9 @@
       (name "Nene")
       (info (_ "The song that was uploaded to opengameart.org named Boss Batle 6 and it's alternate version."))
     )
+  (person
+      (name "SnugglyBun")
+      (info (_ "The Icy Island Midday song from SuperTux that was used for the Icy Island worldmap in this mod."))
 	(person
       (name "remaxim")
       (info (_ "The song that was uploaded to opengameart.org named Boss Batle 6 and it's alternate version."))
