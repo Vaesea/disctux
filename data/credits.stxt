@@ -83,6 +83,11 @@
     )
     (blank)
 	(person
+      (name "Alexander \"Alzter\" S.")
+      (info (_ "Graphics, Nolok Images from SuperTux Classic"))
+    )
+	(blank)
+	(person
       (name "Tobias \"Tobbi\" Markus")
       (info (_ "Maintainer, Programming"))
     )
@@ -97,11 +102,6 @@
       (info (_ "Level Design, Story, Optimisation, Coordination"))
     )
     (blank)
-	(person
-      (name "Alexander \"Alzter\" S.")
-      (info (_ "Graphics"))
-    )
-	(blank)
 	(person
       (name "Daniel \"WeLuvGoatz\" Ward")
       (info (_ "Graphics, Programming, Level Design"))

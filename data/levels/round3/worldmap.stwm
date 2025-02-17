@@ -19,6 +19,7 @@
     )
     (level
       (z-pos 50)
+      (level "zone2.stl")
       (x 17)
       (y 24)
     )
@@ -27,6 +28,8 @@
     )
     (teleporter
       (z-pos 50)
+      (sector "main")
+      (spawnpoint "main")
       (message (_ "Go to Volcanic Vacation Round?"))
       (x 21)
       (y 18)
