@@ -1,0 +1,8 @@
+(supertux-level-subset
+  (title (_ "Forest Fantasy Round"))
+  (description (_ ""))
+  (levelset #f)
+  (contrib-type "official")
+  (hide-from-contribs #t)
+  (title-level "")
+)
