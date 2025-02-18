@@ -28,6 +28,7 @@
     )
     (teleporter
       (z-pos 50)
+      (worldmap "/levels/round5/worldmap.stwm")
       (sector "main")
       (spawnpoint "main")
       (message (_ "Go to Volcanic Vacation Round?"))
@@ -146,6 +147,12 @@
       (name "main")
       (x 5)
       (y 22)
+    )
+    (worldmap-spawnpoint
+      (z-pos 50)
+      (name "back")
+      (x 21)
+      (y 19)
     )
   )
   (tileset "images/ice_world.strf")

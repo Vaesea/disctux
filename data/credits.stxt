@@ -27,7 +27,7 @@
     (blank)
 	(person
       (name "Sophie \"Vaesea\" Ball")
-      (info (_ "a lot of stuff"))
+      (info (_ "levels and more"))
     )
     (blank)
     (blank)
@@ -68,6 +68,14 @@
 	(person
       (name "cynicmusic and congusbongus")
       (info (_ "The songs that were uploaded to opengameart named Crystal Cave and Mysterious Ambience, congusbongus made the stitched-together version"))
+    )
+	(person
+      (name "Robson220pl")
+      (info (_ "Original sound used for the Nolok Roar sound effect."))
+    )
+	(person
+      (name "Beau Buckley")
+      (info (_ "Original Dungeon 3 song aka Volcano Vacation Worldmap song"))
     )
     (blank)
     (blank)
@@ -1368,7 +1376,7 @@
       (blank)
 	  (text
         (type "normal")
-        (string (_ "Penny awaits you in a forest... maybe."))
+        (string (_ "Penny awaits you in a beach... maybe."))
       )
 	  (blank)
   )
