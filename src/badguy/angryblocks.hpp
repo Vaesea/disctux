@@ -44,7 +44,7 @@ protected:
   virtual std::vector<Direction> get_allowed_directions() const override;
 
 protected:
-  enum AngryStoneState
+  enum AngryBlocksState
   {
     IDLE,
     CHARGING,
