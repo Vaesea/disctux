@@ -37,6 +37,9 @@
     )
     (teleporter
       (z-pos 50)
+      (worldmap "/levels/round45/worldmap.stwm")
+      (sector "main")
+      (spawnpoint "main")
       (message (_ "Go to Secret Stronghold Zone?"))
       (x 23)
       (y 21)
