@@ -1,5 +1,5 @@
-//  AngryStone - A spiked block that charges towards the player
-//  Copyright (C) 2006 Christoph Sommer <christoph.sommer@2006.expires.deltadevelopment.de>
+//  AngryBlocks - Spiked blocks that charges towards the player. Modified version of Angry Stone.
+//  Copyright (C) who cares
 //
 //  This program is free software: you can redistribute it and/or modify
 //  it under the terms of the GNU General Public License as published by
@@ -24,8 +24,8 @@ static const float CHARGE_TIME = .5;
 static const float ATTACK_TIME = 1;
 static const float RECOVER_TIME = .5;
 
-AngryStone::AngryStone(const ReaderMapping& reader) :
-  BadGuy(reader, "images/creatures/angrystone/angrystone.sprite"),
+AngryBlocks::AngryBlocks(const ReaderMapping& reader) :
+  BadGuy(reader, "images/creatures/angrystone/angryblocks/angryblocks.sprite"),
   m_attack_direction(0.0f, 0.0f),
   m_old_wall_direction(0.0f, 0.0f),
   m_timer(),
@@ -38,7 +38,7 @@ AngryStone::AngryStone(const ReaderMapping& reader) :
 }
 
 void
-AngryStone::collision_solid(const CollisionHit& hit)
+AngryBlocks::collision_solid(const CollisionHit& hit)
 {
   if (m_frozen)
     BadGuy::collision_solid(hit);
@@ -58,16 +58,16 @@ AngryStone::collision_solid(const CollisionHit& hit)
 }
 
 void
-AngryStone::kill_fall()
+AngryBlocks::kill_fall()
 {
   if (!m_frozen)
     return;
   BadGuy::kill_fall();
-  // Prevents AngryStone from getting killed by other enemies or the player.
+  // Prevents AngryBlocks from getting killed by other enemies or the player.
 }
 
 HitResponse
-AngryStone::collision_badguy(BadGuy& badguy, const CollisionHit& )
+AngryBlocks::collision_badguy(BadGuy& badguy, const CollisionHit& )
 {
   if (m_state == ATTACKING) 
   {
@@ -78,7 +78,7 @@ AngryStone::collision_badguy(BadGuy& badguy, const CollisionHit& )
 }
 
 void
-AngryStone::active_update(float dt_sec) 
+AngryBlocks::active_update(float dt_sec) 
 {
   BadGuy::active_update(dt_sec);
 
@@ -183,7 +183,7 @@ AngryStone::active_update(float dt_sec)
 }
 
 void
-AngryStone::freeze()
+AngryBlocks::freeze()
 {
   BadGuy::freeze();
   m_state = IDLE;
@@ -191,25 +191,25 @@ AngryStone::freeze()
 }
 
 void
-AngryStone::unfreeze(bool melt)
+AngryBlocks::unfreeze(bool melt)
 {
   BadGuy::unfreeze(melt);
 }
 
 bool
-AngryStone::is_freezable() const
+AngryBlocks::is_freezable() const
 {
-  return true;
+  return false;
 }
 
 bool
-AngryStone::is_flammable() const
+AngryBlocks::is_flammable() const
 {
   return false;
 }
 
 std::vector<Direction>
-AngryStone::get_allowed_directions() const
+AngryBlocks::get_allowed_directions() const
 {
   return {};
 }

@@ -14,8 +14,8 @@
 //  You should have received a copy of the GNU General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#ifndef HEADER_SUPERTUX_BADGUY_ANGRYSTONE_HPP
-#define HEADER_SUPERTUX_BADGUY_ANGRYSTONE_HPP
+#ifndef HEADER_SUPERTUX_BADGUY_ANGRYBLOCKS_HPP
+#define HEADER_SUPERTUX_BADGUY_ANGRYBLOCKS_HPP
 
 #include "badguy/badguy.hpp"
 
@@ -30,6 +30,7 @@ public:
   virtual void kill_fall() override;
   virtual void freeze() override;
   virtual void unfreeze(bool melt = true) override;
+  virtual bool is_freezable() const override;
   virtual bool is_flammable() const override;
 
   virtual std::string get_overlay_size() const override { return "3x3"; }
