@@ -21,9 +21,9 @@ Crystalline Cavern Round (Crystal Mine) (CC) (R2)
 
 ### Planned For Demo 2, excluding Demo 1 rounds
 
-Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R2.5) (Secret)
-
 Radical Ruins Round (RR) (R3) (Secret)
+
+Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R3.5) (Secret)
 
 Forest Fantasy Round (Rooted Forest) (FF) (R4)
 
