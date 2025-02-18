@@ -60,6 +60,9 @@ Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAA
 ## Development status
 
 Demo 1 has been finished
+
 Demo 2's Forest Fantasy Round has been finished for now, may need fixes later.
+
 Demo 2's Radical Ruins Round is finished for now, may need fixes later.
+
 Demo 2's Volcanic Vacation Round will be worked on soon.
