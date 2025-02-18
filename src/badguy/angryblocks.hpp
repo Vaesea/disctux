@@ -1,5 +1,5 @@
-//  AngryStone - A spiked block that charges towards the player
-//  Copyright (C) 2006 Christoph Sommer <christoph.sommer@2006.expires.deltadevelopment.de>
+//  AngryBlocks - Spiked blocks that charges towards the player. Modified version of Angry Stone.
+//  Copyright (C) who cares
 //
 //  This program is free software: you can redistribute it and/or modify
 //  it under the terms of the GNU General Public License as published by
@@ -56,7 +56,7 @@ private:
   Vector m_attack_direction;  /**< A normalized vector representing the current attack direction. */
   Vector m_old_wall_direction; /**< If a wall was hit during the last attack, a normalized vector representing the direction of the last attack, (0,0) otherwise. */
   Timer m_timer;
-  AngryStoneState m_state;
+  AngryBlocksState m_state;
 
 private:
   AngryBlocks(const AngryBlocks&) = delete;
