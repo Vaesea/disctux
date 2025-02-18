@@ -20,6 +20,7 @@
 
 #include "audio/sound_source.hpp"
 #include "badguy/angrystone.hpp"
+#include "badguy/angryblocks.hpp"
 #include "badguy/bouncing_snowball.hpp"
 #include "badguy/captainsnowball.hpp"
 #include "badguy/corrupted_granito.hpp"
@@ -175,6 +176,7 @@ GameObjectFactory::init_factories()
   // Badguys.
   m_adding_badguys = true;
   add_factory<AngryStone>("angrystone");
+  add_factory<AngryBlocks>("angryblocks");
   add_factory<BouncingSnowball>("bouncingsnowball", OBJ_PARAM_DISPENSABLE);
   add_factory<CaptainSnowball>("captainsnowball", OBJ_PARAM_DISPENSABLE);
   add_type_factory<CorruptedGranito>("skullyhop", CorruptedGranito::SKULLYHOP); // Backward compatibility

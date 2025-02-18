@@ -34,14 +34,6 @@
     )
     (special-tile
       (z-pos 50)
-      (map-message (_ "Forest Fantasy Round - Comin' Soon! (March 2025)"))
-      (invisible-tile #t)
-      (passive-message #t)
-      (x 32)
-      (y 15)
-    )
-    (special-tile
-      (z-pos 50)
       (map-message (_ "You found a secret path!"))
       (invisible-tile #t)
       (passive-message #t)
@@ -57,6 +49,15 @@
       (message (_ "Go to Crystalline Cavern?"))
       (x 28)
       (y 19)
+    )
+    (teleporter
+      (z-pos 50)
+      (worldmap "/levels/round3/worldmap.stwm")
+      (sector "main")
+      (spawnpoint "main")
+      (message (_ "Go to Forest Fantasy Round?"))
+      (x 32)
+      (y 15)
     )
     (tilemap
       (solid #f)
@@ -246,6 +247,12 @@
       (name "back")
       (x 28)
       (y 18)
+    )
+    (worldmap-spawnpoint
+      (z-pos 50)
+      (name "back2")
+      (x 31)
+      (y 15)
     )
   )
   (tileset "images/ice_world.strf")
