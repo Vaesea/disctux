@@ -1,3 +1,5 @@
 (supertux-music
   (file "radical_ruins.ogg")
+  (loop-begin 20)
+  (loop-at 40)
 )
