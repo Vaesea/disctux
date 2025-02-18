@@ -28,14 +28,20 @@
     (level
       (z-pos 50)
       (level "zone1.stl")
-      (x 22)
+      (x 19)
       (y 13)
     )
     (level
       (z-pos 50)
       (level "zone2.stl")
-      (x 30)
-      (y 14)
+      (x 25)
+      (y 13)
+    )
+    (level
+      (z-pos 50)
+      (level "boss.stl")
+      (x 33)
+      (y 10)
     )
     (music
       (file "/music/worldmap/crystalline_cavern.music")
