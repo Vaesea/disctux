@@ -1132,6 +1132,13 @@ Camera.stop_earthquake();")
       (image "/images/background/weloveccbysa40/pipes_bad_future.png")
       (z-pos -250)
     )
+    (background
+      (color 1 1 1)
+      (speed 0)
+      (fill #t)
+      (image "/images/background/misc/vignette.png")
+      (z-pos 301)
+    )
     (bumper
       (z-pos -1)
       (x 5020)
