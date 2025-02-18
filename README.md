@@ -29,9 +29,9 @@ Forest Fantasy Round (Rooted Forest) (FF) (R4)
 
 Volcanic Vacation Round (VV) (R5)
 
-Desert Diamond Round (DD) (R6) (Secret)
-
 ### Planned for Demo 3, excluding Demo 1 round, can only exist once Tropical Paradise is at least almost fully added to SuperTux
+
+Desert Diamond Round (DD) (R6) (Secret)
 
 Beauty Beach Round (Tropical Paradise 1) (BB) (R7)
 
