@@ -31,9 +31,10 @@
     )
     (teleporter
       (z-pos 50)
+      (worldmap "/levels/world1/worldmap.stwm")
       (sector "main")
       (spawnpoint "main")
-      (message (_ "Go to Desert Diamond Round?"))
+      (message (_ "Desert Diamond Round, Comin' \"Soon\""))
       (x 24)
       (y 14)
     )

@@ -129,7 +129,7 @@ Text.fade_out(1);
 wait(1);
 Tux.activate();
 a.start_moving();
-play_music(\"music/present/radical_ruins_2.ogg\");
+play_music(\"music/misc/heat_boss_battle.ogg\");
 Camera.start_earthquake(2, 0.05);")
       (button #f)
       (width 32)
