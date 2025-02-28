@@ -1,8 +1,8 @@
 (supertux-level-subset
   (title (_ "Volcanic Vacation Round"))
   (description (_ ""))
-  (levelset #t)
-  (contrib-type "user")
-  (hide-from-contribs #f)
+  (levelset #f)
+  (contrib-type "official")
+  (hide-from-contribs #t)
   (title-level "")
 )

@@ -87,6 +87,24 @@
       (bottom_color 0 0 0)
       (z-pos -301)
     )
+    (jumpy
+      (type "metal")
+      (z-pos 50)
+      (x 1456)
+      (y 4128)
+    )
+    (jumpy
+      (type "metal")
+      (z-pos 50)
+      (x 4224)
+      (y 3840)
+    )
+    (jumpy
+      (type "metal")
+      (z-pos 50)
+      (x 4576)
+      (y 3360)
+    )
     (music
       (file "/music/present/volcanic_vacation.music")
     )
@@ -133,6 +151,16 @@ Tux.deactivate();")
     (spawnpoint
       (x 3264)
       (y 3744)
+    )
+    (spiky
+      (z-pos 50)
+      (x 800)
+      (y 4256)
+    )
+    (sspiky
+      (z-pos 50)
+      (x 1024)
+      (y 4224)
     )
     (tilemap
       (solid #f)
@@ -551,7 +579,7 @@ Text.fade_in(1);
 wait(4);
 Text.fade_out(1);
 wait(1);
-Text.set_text(\"Because Nolok disappeared, Tux didn't know where he went, so Tux went to a nearby desert to get to Nolok's castle.\");
+Text.set_text(\"Because Nolok disappeared, Tux didn't know where he went, so Tux went to a nearby beach to search for him.\");
 Text.fade_in(1);
 wait(4);
 Text.fade_out(1);

@@ -26,13 +26,6 @@
     (music
       (file "/music/worldmap/dungeon_3.music")
     )
-    (special-tile
-      (z-pos 50)
-      (map-message (_ "Beauty Beach - Comin' \"soon\""))
-      (passive-message #t)
-      (x 32)
-      (y 74)
-    )
     (teleporter
       (z-pos 50)
       (worldmap "/levels/round3/worldmap.stwm")
@@ -41,6 +34,15 @@
       (message (_ "Go back to Forest Fantasy Round?"))
       (x 32)
       (y 99)
+    )
+    (teleporter
+      (z-pos 50)
+      (worldmap "/levels/world1/worldmap.stwm")
+      (sector "main")
+      (spawnpoint "main")
+      (message (_ "Beauty Beach - Comin' \"Soon\""))
+      (x 32)
+      (y 74)
     )
     (tilemap
       (solid #f)
