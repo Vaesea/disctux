@@ -27,7 +27,7 @@
     (blank)
 	(person
       (name "Sophie \"Vaesea\" Ball")
-      (info (_ "a lot of stuff"))
+      (info (_ "levels and more"))
     )
     (blank)
     (blank)
@@ -45,29 +45,55 @@
       (name "FrostC")
       (info (_ "Better Chocolate Blocks, New Tux Statue, all from a SuperTux Pull Request."))
     )
+    (blank)
 	(person
       (name "Industrial Team")
       (info (_ "Pipe Backgrounds and new Industrial Tiles, all from Industrial Island V2."))
     )
+    (blank)
 	(person
       (name "extra info about the previous 2 credits")
       (info (_ "New Industrial Tiles is part of the SuperTux Pull Request by FrostC which is where I got those from."))
     )
+    (blank)
 	(person
       (name "Nene")
       (info (_ "The song that was uploaded to opengameart.org named Boss Batle 6 and it's alternate version."))
     )
+    (blank)
 	(person
       (name "remaxim")
       (info (_ "The song that was uploaded to opengameart.org named Boss Theme."))
     )
+    (blank)
 	(person
       (name "Ted Kerr aka Wolfgang_")
       (info (_ "The song that was uploaded to opengameart.org named Summer Resort Theme, also known as Summer Challenge."))
     )
+    (blank)
 	(person
       (name "cynicmusic and congusbongus")
       (info (_ "The songs that were uploaded to opengameart named Crystal Cave and Mysterious Ambience, congusbongus made the stitched-together version"))
+    )
+    (blank)
+	(person
+      (name "Robson220pl")
+      (info (_ "Original sound used for the Nolok Roar sound effect."))
+    )
+    (blank)
+	(person
+      (name "Beau Buckley")
+      (info (_ "Original Dungeon 3 song aka Volcano Vacation Worldmap song"))
+    )
+    (blank)
+	(person
+      (name "Matthew Pablo")
+      (info (_ "Woodland Fantasy, which was used for the Forest Fantasy worldmap"))
+    )
+    (blank)
+	(person
+      (name "MintoDog")
+      (info (_ "Heat Boss Battle, used for the 2nd part of Volcanic Vacation Zone 2"))
     )
     (blank)
     (blank)
@@ -79,9 +105,14 @@
 	(blank)
     (person
       (name "SnugglyBun")
-      (info (_ "The Icy Island Midday song from SuperTux that was used for the Icy Island worldmap in this mod."))
+      (info (_ "Icy Island Midday and Forest Midday, which are used in this mod."))
     )
     (blank)
+	(person
+      (name "Alexander \"Alzter\" S.")
+      (info (_ "Graphics, Nolok Images from SuperTux Classic"))
+    )
+	(blank)
 	(person
       (name "Tobias \"Tobbi\" Markus")
       (info (_ "Maintainer, Programming"))
@@ -97,11 +128,6 @@
       (info (_ "Level Design, Story, Optimisation, Coordination"))
     )
     (blank)
-	(person
-      (name "Alexander \"Alzter\" S.")
-      (info (_ "Graphics"))
-    )
-	(blank)
 	(person
       (name "Daniel \"WeLuvGoatz\" Ward")
       (info (_ "Graphics, Programming, Level Design"))
@@ -1368,7 +1394,7 @@
       (blank)
 	  (text
         (type "normal")
-        (string (_ "Penny awaits you in a forest... maybe."))
+        (string (_ "Penny awaits you in a beach... maybe."))
       )
 	  (blank)
   )

@@ -1,0 +1,15 @@
+(supertux-sprite
+ (action
+  (name "left")
+  (fps 14)
+  (hitbox 8 13 32 32)
+  (images "tikenli-0.png"
+		  "tikenli-1.png"
+          "tikenli-2.png"))
+
+ (action
+  (name "right")
+  (fps 14)
+  (hitbox 8 13 32 32)
+  (mirror-action "left"))
+ )

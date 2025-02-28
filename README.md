@@ -13,7 +13,7 @@ and Bad Future, which all means it's SuperTux but Sonic CD.
 
 I'm aware there's probably something out there that's like SuperTux + Sonic CD, but I don't really care.
 
-## Worlds / Zones (Demo 1)
+## Worlds / Zones
 
 Icy Island Round (Icy Island) (II) (R1)
 
@@ -21,35 +21,35 @@ Crystalline Cavern Round (Crystal Mine) (CC) (R2)
 
 ### Planned For Demo 2, excluding Demo 1 rounds
 
-Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R2.5) (Secret)
-
 Radical Ruins Round (RR) (R3) (Secret)
+
+Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R3.5) (Secret)
 
 Forest Fantasy Round (Rooted Forest) (FF) (R4)
 
 Volcanic Vacation Round (VV) (R5)
 
-Desert Diamond Round (DD) (R6) (Secret)
-
 ### Planned for Demo 3, excluding Demo 1 round, can only exist once Tropical Paradise is at least almost fully added to SuperTux
+
+Desert Diamond Round (DD) (R6) (Secret)
 
 Beauty Beach Round (Tropical Paradise 1) (BB) (R7)
 
 Joyous Jungle Round (Tropical Paradise 2) (JJ) (R8)
                                                    
-Halloween Horror Round (Halloween Island / Halloween 2014) (HH) (R9)
+Forest Fantasy Round 2 (Bad Future) (Corrupted Forest) (FF2) (R4 again)
 
 ### Planned for the full thing, excluding Demo 1 + 2 rounds, can only exist once Mountain Peak's base tileset is added to SuperTux
 
-Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R10)
+Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R9)
 
-Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (SS) (R11)
+Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (SS) (R10)
 
-### Planned to be added on later after the full thing, can only exist once Mountain Peak's base tileset is added to SuperTux
+### Planned to be added on later after the full thing
 
 *Extra World - "The Bonus Rounds":*
 
-Woodland Winter Round (https://www.youtube.com/watch?v=CXOJVytKXI0) (WW)
+Woodland Winter Round (https://www.youtube.com/watch?v=CXOJVytKXI0) (WW) 
 
 Pyramid Panic Round (PP)
 
@@ -59,4 +59,10 @@ Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAA
 
 ## Development status
 
-Demo 1 is finished, Demo 2 is starting development now in a different branch.
+Demo 1 has been finished
+
+Demo 2's Forest Fantasy Round has been finished for now, may need fixes later.
+
+Demo 2's Radical Ruins Round is finished for now, may need fixes later.
+
+Demo 2's Volcanic Vacation Round will be worked on soon.
