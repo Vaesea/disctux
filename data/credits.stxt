@@ -92,6 +92,11 @@
     )
     (blank)
 	(person
+      (name "Alexander \"Alzter\" S.")
+      (info (_ "Nolok Images from SuperTux Classic"))
+    )
+    (blank)
+	(person
       (name "MintoDog")
       (info (_ "Heat Boss Battle, used for the 2nd part of Volcanic Vacation Zone 2"))
     )
