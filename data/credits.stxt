@@ -97,6 +97,11 @@
     )
     (blank)
 	(person
+      (name "Daniel \"WeLuvGoatz\" Ward")
+      (info (_ "Radical Ruins grass, which is from an old pull request for SuperTux."))
+    )
+    (blank)
+	(person
       (name "MintoDog")
       (info (_ "Heat Boss Battle, used for the 2nd part of Volcanic Vacation Zone 2"))
     )
