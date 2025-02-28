@@ -31,12 +31,16 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        arch: [x64]
-        build_type: [RelWithDebInfo]
+        arch: [x64, x86]
+        build_type: [Debug, RelWithDebInfo]
         glbinding: [OFF] # [ON, OFF] # FIXME: Fix Windows glbinding builds
         include:
           - build_type: RelWithDebInfo
             arch: x64
+            glbinding: OFF
+            release: ON
+          - build_type: RelWithDebInfo
+            arch: x86
             glbinding: OFF
             release: ON
 
