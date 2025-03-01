@@ -19,8 +19,6 @@ Icy Island Round (Icy Island) (II) (R1)
 
 Crystalline Cavern Round (Crystal Mine) (CC) (R2)
 
-### Planned For Demo 2, excluding Demo 1 rounds
-
 Radical Ruins Round (RR) (R3) (Secret)
 
 Secret Stronghold Zone (SS) (Only 1 zone so that's why it's called a zone instead of a round) (R3.5) (Secret)
@@ -29,21 +27,19 @@ Forest Fantasy Round (Rooted Forest) (FF) (R4)
 
 Volcanic Vacation Round (VV) (R5)
 
-### Planned for Demo 3, excluding Demo 1 round, can only exist once Tropical Paradise is at least almost fully added to SuperTux
+### Planned for Demo 3
 
-Desert Diamond Round (DD) (R6) (Secret)
-
-Beauty Beach Round (Tropical Paradise 1) (BB) (R7)
+Calm Coast (Tropical Paradise 1) (CC 1)
 
 Joyous Jungle Round (Tropical Paradise 2) (JJ) (R8)
                                                    
 Forest Fantasy Round 2 (Bad Future) (Corrupted Forest) (FF2) (R4 again)
 
-### Planned for the full thing, excluding Demo 1 + 2 rounds, can only exist once Mountain Peak's base tileset is added to SuperTux
+### Planned for the full thing, can only exist once Mountain Peak's base tileset is added to SuperTux
 
 Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R9)
 
-Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (SS) (R10)
+Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (CC 2) (R10)
 
 ### Planned to be added on later after the full thing
 
@@ -55,7 +51,7 @@ Pyramid Panic Round (PP)
 
 Vertical Venture Round (Mountain Peaks + 3DS Celeste) (VV)
 
-Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) (screamin' for me baby)
+Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 
 ## Development status
 
