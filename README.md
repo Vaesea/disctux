@@ -35,6 +35,10 @@ Joyous Jungle Round (Tropical Paradise 2) (JJ) (R8)
                                                    
 Forest Fantasy Round 2 (Bad Future) (Corrupted Forest) (FF2) (R4 again)
 
+Volcanic Vacation Round 2 (Bad Future) (VV2) (R5 again)
+
+Radical Ruins Round 2 (Past) (RR2) (R3 again) (The hole in the sky created by the red crystal set Radical Ruins back in time as the rainbow stuff around it blocked the red crystal trying to make it a bad future)
+
 ### Planned for the full thing, can only exist once Mountain Peak's base tileset is added to SuperTux
 
 Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R9)
@@ -47,18 +51,16 @@ Callous Castle Round (Nolok's Castle) (uses the old castle background tileset th
 
 Woodland Winter Round (https://www.youtube.com/watch?v=CXOJVytKXI0) (WW) 
 
-Pyramid Panic Round (PP)
-
 Vertical Venture Round (Mountain Peaks + 3DS Celeste) (VV)
 
-Artifical Asteroid Round (Death Egg but less technology, more rock) (AA) (AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+Radical Ruins Round 3 (Good Future) (RR3) (R3 again again)
+
+The Bonus Rounds does happen in the DiscTux story but it's years after the main story.
 
 ## Development status
 
 Demo 1 has been finished
 
-Demo 2's Forest Fantasy Round has been finished for now, may need fixes later.
+Demo 2 has been finished
 
-Demo 2's Radical Ruins Round is finished for now, may need fixes later.
-
-Demo 2's Volcanic Vacation Round will be worked on soon.
+Demo 3 is starting development
