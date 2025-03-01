@@ -292,8 +292,13 @@ Level.finish(true);")
       (y 720)
     )
     (spawnpoint
-      (name "main")
+      (name "end")
       (x 512)
+      (y 832)
+    )
+    (spawnpoint
+      (name "main")
+      (x 480)
       (y 832)
     )
     (tilemap

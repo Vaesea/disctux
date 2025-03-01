@@ -24,7 +24,7 @@
       (z-pos 50)
       (worldmap "/levels/round4/worldmap.stwm")
       (sector "main")
-      (spawnpoint "main")
+      (spawnpoint "back")
       (message (_ "Go back to Radical Ruins?"))
       (x 7)
       (y 14)

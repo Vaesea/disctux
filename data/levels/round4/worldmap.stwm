@@ -212,6 +212,12 @@
       (x 31)
       (y 10)
     )
+    (worldmap-spawnpoint
+      (z-pos 50)
+      (name "back")
+      (x 23)
+      (y 19)
+    )
   )
   (tileset "images/ice_world.strf")
 )
