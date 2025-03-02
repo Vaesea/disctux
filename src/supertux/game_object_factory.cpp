@@ -64,6 +64,7 @@
 #include "badguy/smartblock.hpp"
 #include "badguy/snail.hpp"
 #include "badguy/snowball.hpp"
+#include "badguy/coco.hpp"
 #include "badguy/snowman.hpp"
 #include "badguy/scrystallo.hpp"
 #include "badguy/spiky.hpp"
@@ -232,6 +233,7 @@ GameObjectFactory::init_factories()
   add_factory<SmartBlock>("smartblock", OBJ_PARAM_PORTABLE | OBJ_PARAM_DISPENSABLE);
   add_factory<Snail>("snail", OBJ_PARAM_PORTABLE | OBJ_PARAM_DISPENSABLE);
   add_factory<SnowBall>("snowball", OBJ_PARAM_DISPENSABLE);
+  add_factory<Coco>("coco", OBJ_PARAM_DISPENSABLE);
   add_factory<Snowman>("snowman", OBJ_PARAM_DISPENSABLE);
   add_factory<Spiky>("spiky", OBJ_PARAM_DISPENSABLE);
   add_factory<Stalactite>("stalactite", OBJ_PARAM_DISPENSABLE);
