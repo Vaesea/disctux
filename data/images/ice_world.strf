@@ -54,6 +54,19 @@
 	)
 )
 
+(tilegroup
+	(name (_ "Tropical"))
+	(tiles
+		1050 1051 1052 0
+		1053 1054 1055 0
+		1056 1057 1058 0
+		1059 1060 1061 0
+		1062 1063 1064 0
+		1065 1066 0       0
+		1067 1068 0       0
+	)
+)
+
 (tiles
 	(width 5)(height 9)
 	(images "worldmap/ice/land.png")
@@ -1080,6 +1093,27 @@
 		1041 1042 1043
         1044 1045 1046
         1047 1048 1049
+	)
+)
+
+(tiles
+	(width 3)(height 5)
+	(images "worldmap/tropical/sand.png")
+	(ids
+		1050 1051 1052
+		1053 1054 1055
+		1056 1057 1058
+		1059 1060 1061
+		1062 1063 1064
+	)
+)
+
+(tiles
+	(width 2)(height 2)
+	(images "worldmap/tropical/Palm2.png")
+	(ids
+		1065 1066
+		1067 1068
 	)
 )
 
