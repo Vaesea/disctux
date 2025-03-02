@@ -62,6 +62,32 @@
       (x 768)
       (y 544)
     )
+    (coco
+      (z-pos 50)
+      (x 736)
+      (y 512)
+    )
+    (coco
+      (z-pos 50)
+      (x 3008)
+      (y 320)
+    )
+    (coco
+      (z-pos 50)
+      (direction "left")
+      (x 8992)
+      (y 704)
+    )
+    (coco
+      (z-pos 50)
+      (x 10240)
+      (y 832)
+    )
+    (coco
+      (z-pos 50)
+      (x 11968)
+      (y 288)
+    )
     (coin
       (z-pos 49)
       (x 8368)
@@ -456,7 +482,7 @@
         (adapt_speed #t)
         (node
           (x 9792)
-          (y 800)
+          (y 832)
           (time 3)
         )
         (node
@@ -489,24 +515,33 @@
       (x 17280)
       (y 0)
     )
-    (snail
+    (smartball
       (z-pos 50)
+      (sprite "/images/creatures/sandball/sandball.sprite")
       (x 3232)
       (y 256)
     )
-    (snail
+    (smartball
       (z-pos 50)
-      (x 2560)
-      (y 480)
-    )
-    (snail
-      (z-pos 50)
-      (direction "left")
+      (sprite "/images/creatures/sandball/sandball.sprite")
       (x 9088)
       (y 672)
     )
-    (snail
+    (smartball
       (z-pos 50)
+      (sprite "/images/creatures/sandball/sandball.sprite")
+      (x 13088)
+      (y 256)
+    )
+    (smartball
+      (z-pos 50)
+      (sprite "/images/creatures/sandball/sandball.sprite")
+      (x 10560)
+      (y 704)
+    )
+    (smartball
+      (z-pos 50)
+      (sprite "/images/creatures/sandball/sandball.sprite")
       (x 8608)
       (y 320)
     )
@@ -528,8 +563,8 @@
       (y 832)
     )
     (spawnpoint
-      (x 12960)
-      (y 224)
+      (x 12160)
+      (y 256)
     )
     (spawnpoint
       (x 14768)
@@ -540,8 +575,83 @@
       (y 1008)
     )
     (spawnpoint
-      (x 10544)
-      (y 688)
+      (x 9664)
+      (y 736)
+    )
+    (spawnpoint
+      (x 864)
+      (y 480)
+    )
+    (spawnpoint
+      (x 10560)
+      (y 640)
+    )
+    (spawnpoint
+      (x 2848)
+      (y 352)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 1040)
+      (y 144)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 1824)
+      (y 320)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 2144)
+      (y 192)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 2656)
+      (y 224)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 6432)
+      (y 256)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 6720)
+      (y 192)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 6208)
+      (y 192)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 8480)
+      (y 608)
+    )
+    (stalactite
+      (type "rock")
+      (z-pos -1)
+      (sprite "/images/creatures/stalactite/stalactite_coconut.sprite")
+      (x 10720)
+      (y 448)
     )
     (tilemap
       (solid #f)
