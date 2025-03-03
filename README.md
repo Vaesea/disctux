@@ -39,9 +39,9 @@ Volcanic Vacation Round 2 (Bad Future) (VV2) (R5 again)
 
 Radical Ruins Round 2 (Past) (RR2) (R3 again) (The hole in the sky created by the red crystal set Radical Ruins back in time as the rainbow stuff around it blocked the red crystal trying to make it a bad future)
 
-Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R7)
+Pinnacle Peak Round (Mountain Peaks) (i know it's a terrible name) (PP) (R7)
 
-Baleful Building (Nolok's Castle) (uses the old castle background tileset thingy) (BB) (R8)
+Metallic Monstrosity (Nolok's Castle) (uses the old castle background tileset thingy) (MM) (R8) (the name is inspired by mettalic madness)
 
 ### Planned to be added on later after the full thing
 
