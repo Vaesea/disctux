@@ -1069,6 +1069,12 @@ startlevel();")
       (image "/images/background/misc/vignette.png")
       (z-pos 301)
     )
+    (background
+      (color 1 1 1)
+      (speed 0.3)
+      (image "/images/background/from_industrial_island/pipes_bad_future.png")
+      (z-pos -299)
+    )
     (camera
       (name "Camera")
       (mode "normal")
