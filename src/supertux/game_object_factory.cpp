@@ -77,6 +77,7 @@
 #include "badguy/viciousivy.hpp"
 #include "badguy/walking_candle.hpp"
 #include "badguy/walkingleaf.hpp"
+#include "badguy/sandball.hpp"
 #include "badguy/willowisp.hpp"
 #include "badguy/yeti.hpp"
 #include "badguy/yeti_stalactite.hpp"
@@ -246,6 +247,7 @@ GameObjectFactory::init_factories()
   add_factory<ViciousIvy>("viciousivy", OBJ_PARAM_DISPENSABLE);
   add_factory<WalkingCandle>("walking_candle", OBJ_PARAM_DISPENSABLE);
   add_factory<WalkingLeaf>("walkingleaf", OBJ_PARAM_DISPENSABLE);
+  add_factory<Sandball>("sandball", OBJ_PARAM_DISPENSABLE);
   add_factory<WillOWisp>("willowisp", OBJ_PARAM_DISPENSABLE);
   add_factory<Yeti>("yeti");
   add_factory<YetiStalactite>("yeti_stalactite");
