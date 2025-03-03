@@ -29,27 +29,25 @@ Volcanic Vacation Round (VV) (R5)
 
 ### Planned for Demo 3
 
-Calm Coast (Tropical Paradise 1) (CC 1)
+Calm Coast (Tropical Paradise) (CC) (R6)
 
-Joyous Jungle Round (Tropical Paradise 2) (JJ) (R8)
-                                                   
 Forest Fantasy Round 2 (Bad Future) (Corrupted Forest) (FF2) (R4 again)
 
 Volcanic Vacation Round 2 (Bad Future) (VV2) (R5 again)
 
+### Planned for the full thing
+
 Radical Ruins Round 2 (Past) (RR2) (R3 again) (The hole in the sky created by the red crystal set Radical Ruins back in time as the rainbow stuff around it blocked the red crystal trying to make it a bad future)
 
-### Planned for the full thing, can only exist once Mountain Peak's base tileset is added to SuperTux
+Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R7)
 
-Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R9)
-
-Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (CC 2) (R10)
+Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (CC 2) (R8)
 
 ### Planned to be added on later after the full thing
 
 *Extra World - "The Bonus Rounds":*
 
-Woodland Winter Round (https://www.youtube.com/watch?v=CXOJVytKXI0) (WW) 
+Woodland Winter Round (https://www.youtube.com/watch?v=CXOJVytKXI0 but winter) (WW) 
 
 Vertical Venture Round (Mountain Peaks + 3DS Celeste) (VV)
 
