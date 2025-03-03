@@ -29,7 +29,7 @@ Volcanic Vacation Round (VV) (R5)
 
 ### Planned for Demo 3
 
-Bridge Beach (Tropical Paradise, with a lot of bridges) (BB) (R6)
+Calm Coast (Tropical Paradise beach) (BB) (R6)
 
 Forest Fantasy Round 2 (Bad Future) (Corrupted Forest) (FF2) (R4 again)
 
@@ -41,7 +41,7 @@ Radical Ruins Round 2 (Past) (RR2) (R3 again) (The hole in the sky created by th
 
 Manic Mountain Round (Mountain Peaks) (i know it's a terrible name) (MM) (R7)
 
-Callous Castle Round (Nolok's Castle) (uses the old castle background tileset thingy) (CC 2) (R8)
+Baleful Building (Nolok's Castle) (uses the old castle background tileset thingy) (BB) (R8)
 
 ### Planned to be added on later after the full thing
 
