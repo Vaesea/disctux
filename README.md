@@ -29,7 +29,7 @@ Volcanic Vacation Round (VV) (R5)
 
 ### Planned for Demo 3
 
-Calm Coast (Tropical Paradise) (CC) (R6)
+Bridge Beach (Tropical Paradise, with a lot of bridges) (BB) (R6)
 
 Forest Fantasy Round 2 (Bad Future) (Corrupted Forest) (FF2) (R4 again)
 
@@ -61,4 +61,4 @@ Demo 1 has been finished
 
 Demo 2 has been finished
 
-Demo 3 is starting development
+Demo 3 has started development.
