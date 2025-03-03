@@ -30,12 +30,12 @@
   )
   (action
    (name "iced-left")
-   (hitbox 8 13 45 43)
+   (hitbox 0 7 45 43)
   (images "sandball-5.png")
   )
   (action
    (name "iced-right")
-   (hitbox 8 13 45 43)
+   (hitbox 0 7 45 43)
    (mirror-action "iced-left")
   )
 )
