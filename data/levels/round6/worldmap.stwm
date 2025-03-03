@@ -19,6 +19,7 @@
     )
     (level
       (z-pos 50)
+      (level "zone2.stl")
       (x 12)
       (y 20)
     )
