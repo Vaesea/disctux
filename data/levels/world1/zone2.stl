@@ -808,8 +808,8 @@ startlevel();")
     (background
       (color 1 1 1)
       (speed 0.3)
-      (image "/images/background/weloveccbysa40/pipes_good_future.png")
-      (z-pos -320)
+      (image "/images/background/from_industrial_island/pipes_good_future.png")
+      (z-pos -349)
     )
     (bonusblock
       (type "purple")
@@ -1061,12 +1061,6 @@ startlevel();")
       (speed 0.5)
       (image "/images/background/misc/fog.png")
       (z-pos 300)
-    )
-    (background
-      (color 1 1 1)
-      (speed 0.3)
-      (image "/images/background/from_industrial_island/pipes_bad_future.png")
-      (z-pos -250)
     )
     (background
       (color 1 1 1)

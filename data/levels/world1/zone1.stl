@@ -869,8 +869,8 @@ Camera.stop_earthquake();")
     (background
       (color 1 1 1)
       (speed 0.3)
-      (image "/images/background/weloveccbysa40/pipes_good_future.png")
-      (z-pos -320)
+      (image "/images/background/from_industrial_island/pipes_good_future.png")
+      (z-pos -349)
     )
     (bonusblock
       (type "purple")
@@ -1133,12 +1133,6 @@ Camera.stop_earthquake();")
     )
     (background
       (color 1 1 1)
-      (speed 0.3)
-      (image "/images/background/from_industrial_island/pipes_bad_future.png")
-      (z-pos -250)
-    )
-    (background
-      (color 1 1 1)
       (speed 0)
       (fill #t)
       (image "/images/background/misc/vignette.png")
@@ -1166,8 +1160,43 @@ Camera.stop_earthquake();")
     )
     (ghoul
       (z-pos 50)
+      (x 13536)
+      (y 704)
+    )
+    (ghoul
+      (z-pos 50)
+      (x 12112)
+      (y 608)
+    )
+    (ghoul
+      (z-pos 50)
       (x 10368)
       (y 512)
+    )
+    (ghoul
+      (z-pos 50)
+      (x 8784)
+      (y 1328)
+    )
+    (ghoul
+      (z-pos 50)
+      (x 7200)
+      (y 480)
+    )
+    (ghoul
+      (z-pos 50)
+      (x 5984)
+      (y 736)
+    )
+    (ghoul
+      (z-pos 50)
+      (x 3568)
+      (y 864)
+    )
+    (ghoul
+      (z-pos 50)
+      (x 15968)
+      (y 736)
     )
     (gradient
       (top_color 0 0 0)
@@ -1237,10 +1266,10 @@ This is because Nolok put the world in a night that lasts forever in this future
     )
     (sequencetrigger
       (sequence "fireworks")
-      (width 32)
-      (height 256)
-      (x 18064)
-      (y 192)
+      (width 64)
+      (height 512)
+      (x 18048)
+      (y -64)
     )
     (spawnpoint
       (name "main")
