@@ -37,11 +37,13 @@ Volcanic Vacation Round 2 (Bad Future) (VV2) (R5 again)
 
 ### Planned for the full thing
 
-Radical Ruins Round 2 (Past) (RR2) (R3 again) (The hole in the sky created by the red crystal set Radical Ruins back in time as the rainbow stuff around it blocked the red crystal trying to make it a bad future)
+Radical Ruins Round 2 (Past) (RR2) (R3 again) (The hole in the sky created by the red crystal set Radical Ruins back in time as the rainbow stuff around it blocked the red crystal trying to make it a bad future, although since it's the past now, the rainbow stuff is weaker)
 
 Pinnacle Peak Round (Mountain Peaks) (i know it's a terrible name) (PP) (R7)
 
-Metallic Monstrosity (Nolok's Castle) (uses the old castle background tileset thingy) (MM) (R8) (the name is inspired by mettalic madness)
+Metallic Monstrosity Round (Nolok's Castle) (MM) (R8) (the name is inspired by mettalic madness) (Tux wouldn't be able to defeat Nolok here and he'd be there sleeping for almost three months)
+
+Artificial Asteroid Round (Radical Ruins Terrible Future) (RR3) (AA) (R3 again again) (Nolok used the power of the red crystal to remove the rainbow stuff from Radical Ruins first before putting it into a bad future after, and after that, he quickly took over Radical Ruins, turning it into an island just floating in space using the red crystal, about to destroy earth just because it'd be funny)
 
 ### Planned to be added on later after the full thing
 
@@ -51,7 +53,7 @@ Woodland Winter Round (https://www.youtube.com/watch?v=CXOJVytKXI0 but winter) (
 
 Vertical Venture Round (Mountain Peaks + 3DS Celeste) (VV)
 
-Radical Ruins Round 3 (Good Future) (RR3) (R3 again again)
+Radical Ruins Round 4 (Good Future) (RR4) (R3 again again again)
 
 The Bonus Rounds does happen in the DiscTux story but it's years after the main story.
 
