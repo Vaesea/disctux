@@ -12,6 +12,7 @@ travel, with Sonic CD's timelines such as Past, Present, Good Future
 and Bad Future, which all means it's SuperTux but Sonic CD.
 
 I'm aware there's probably something out there that's like SuperTux + Sonic CD, but I don't really care.
+I just wanted to make this mod because why not.
 
 ## Worlds / Zones
 
