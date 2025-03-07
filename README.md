@@ -5,7 +5,7 @@ Super Mario Bros. games for the various Nintendo platforms.
 
 Now let's focus on the fact that this is a mod of SuperTux named
 DiscTux. This mod aims to basically have the SuperTux worlds turned
-into 2 level-act 1 boss-act zones, along with some new zones, some
+into 2 level-act 1 boss-act rounds, along with some new rounds, some
 based on SuperTux's worlds (Crystalline Cavern = Crystal Mines, 
 which I know is still Icy Islands but whatever) and it has time
 travel, with Sonic CD's timelines such as Past, Present, Good Future
@@ -28,15 +28,13 @@ Forest Fantasy Round (Rooted Forest) (FF) (R4)
 
 Volcanic Vacation Round (VV) (R5)
 
-### Planned for Demo 3
+### Planned for the full thing
 
 Calm Coast (Tropical Paradise beach) (BB) (R6)
 
 Forest Fantasy Round 2 (Bad Future) (Corrupted Forest) (FF2) (R4 again)
 
 Volcanic Vacation Round 2 (Bad Future) (VV2) (R5 again)
-
-### Planned for the full thing
 
 Radical Ruins Round 2 (Past) (RR2) (R3 again) (The hole in the sky created by the red crystal set Radical Ruins back in time as the rainbow stuff around it blocked the red crystal trying to make it a bad future, although since it's the past now, the rainbow stuff is weaker)
 
