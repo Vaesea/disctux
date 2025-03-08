@@ -156,6 +156,12 @@
   (object
     (class "totem")
     (icon "images/creatures/totem/walking1.png"))
+  (object
+    (class "coco")
+    (icon "images/creatures/coco/m-0.png"))
+  (object
+    (class "sandball")
+    (icon "images/creatures/sandball/sandball-5.png"))
  )
 
  (objectgroup
