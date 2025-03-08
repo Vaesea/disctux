@@ -25,6 +25,7 @@
     )
     (level
       (z-pos 50)
+      (level "zone1.stl")
       (x 31)
       (y 25)
     )
