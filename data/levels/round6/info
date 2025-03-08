@@ -1,7 +1,7 @@
 (supertux-level-subset
   (title (_ "Calm Coast Round"))
   (description (_ ""))
-  (levelset #t)
+  (levelset #f)
   (contrib-type "official")
   (hide-from-contribs #t)
   (title-level "")

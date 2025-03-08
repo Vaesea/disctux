@@ -1,0 +1,156 @@
+(supertux-level
+  (version 3)
+  (name (_ "A Thing In The Sky"))
+  (author "Sophie Ball")
+  (license "CC-BY-SA 4.0 International")
+  (allow-item-pocket "inherit")
+  (icon "")
+  (icon-locked "")
+  (statistics
+    (enable-coins #t)
+    (enable-badguys #f)
+    (enable-secrets #t)
+  )
+  (sector
+    (name "main")
+    (ambient-light
+      (color 1 0.9 0.8)
+    )
+    (background
+      (color 1 1 1)
+      (alignment "bottom")
+      (speed 0.4)
+      (image "/images/background/tropical/sand_hill_zone.png")
+      (image-bottom "/images/background/tropical/sand_bottom.png")
+    )
+    (background
+      (scroll-offset-y -150)
+      (color 0.9 0.9 0.9)
+      (alignment "bottom")
+      (speed 0.01)
+      (image "/images/background/tropical/misty_sandhills_para.png")
+      (z-pos -301)
+    )
+    (background
+      (scroll-offset-y -300)
+      (color 1 1 1)
+      (alignment "top")
+      (speed 0)
+      (image "/images/background/tropical/hole.png")
+      (z-pos -303)
+    )
+    (background
+      (color 1 1 1 0.3)
+      (scroll-speed-x -50)
+      (speed 0.5)
+      (image "/images/background/misc/fog.png")
+      (z-pos 300)
+    )
+    (camera
+      (name "Camera")
+      (mode "normal")
+    )
+    (decal
+      (z-pos -101)
+      (sprite "/images/decal/tropical/palm_tree_1.png")
+      (x 864)
+      (y 448)
+    )
+    (decal
+      (z-pos -101)
+      (sprite "/images/decal/tropical/palm_tree_1.png")
+      (x 224)
+      (y 576)
+    )
+    (decal
+      (z-pos -101)
+      (sprite "/images/decal/tropical/palm_tree_2.png")
+      (x 593.0527)
+      (y 451.5789)
+    )
+    (decal
+      (z-pos -101)
+      (sprite "/images/decal/tropical/palm_tree_2.png")
+      (x 1120)
+      (y 448)
+    )
+    (decal
+      (z-pos -101)
+      (sprite "/images/decal/tropical/palm_tree_2.png")
+      (x -64)
+      (y 544)
+    )
+    (gradient
+      (blend "none")
+      (top_color 0.8117647 0.4 0)
+      (bottom_color 0 0.2392157 0.854902)
+      (z-pos -304)
+    )
+    (gradient
+      (top_color 0.9372549 0.4666667 0 0.1)
+      (bottom_color 0.7882353 0.3294118 0 0)
+      (z-pos 301)
+    )
+    (music
+      (file "/music/cutscene/boss_theme.music")
+    )
+    (scripttrigger
+      (oneshot #t)
+      (script "Tux.deactivate();
+Tux.walk(320);")
+      (button #f)
+      (width 32)
+      (height 32)
+      (x 0)
+      (y 960)
+    )
+    (scripttrigger
+      (oneshot #t)
+      (script "Tux.walk(0);
+Text.set_font(\"normal\");
+
+Text.set_text(\"Tux could see a strange thing in the sky...\");
+Text.fade_in(1);
+wait(4);
+Text.fade_out(1);
+wait(1);
+
+Tux.walk(320);
+Effect.fade_out(1);
+wait(1);
+Level.finish(true);")
+      (button #f)
+      (width 32)
+      (height 32)
+      (x 864)
+      (y 832)
+    )
+    (spawnpoint
+      (name "main")
+      (x 0)
+      (y 928)
+    )
+    (tilemap
+      (solid #f)
+      (z-pos -100)
+      (width 50)
+      (height 35)
+      (tiles -1048 0 402 403 -43 0 402 403 404 405 0 406 407 -38 0 402 403 404 405 0 406 407 408 409 0 410 411 -38 0 406 407 408 409 0 410 411 412 413 0 414 415 -34 0 402 403 404 405 418 419 420 421 0 414 415 416 417 0 418 419 -13 0 402 403 434 435 436 403 404 405 -13 0 406 407 408 409 422 423 424 425 0 418 419 420 421 0 422 423 -13 0 406 407 438 439 440 407 408 409 -5 0 322 2516 2517 402 403 404 405 2471 410 419 426 427 428 429 420 421 322 422 423 424 425 -16 0 410 411 442 443 444 411 412 413 -15 0 430 431 432 433 424 425 -21 0 414 415 446 447 448 415 416 417 -33 0 402 403 434 435 404 405 -3 0 418 419 450 451 452 419 420 421 -29 0 2517 322 2634 2515 406 407 438 439 408 409 0 322 2631 422 423 454 455 456 423 424 425 -229 0)
+    )
+    (tilemap
+      (solid #f)
+      (z-pos 100)
+      (width 50)
+      (height 35)
+      (tiles -1750 0)
+    )
+    (tilemap
+      (solid #t)
+      (z-pos 0)
+      (width 50)
+      (height 35)
+      (tiles -1297 0 55066 -2 55002 -25 0 55066 -2 55002 55384 55016 -2 55002 -4 55384 -2 55385 -2 55002 55385 -2 55002 55385 -2 55002 55069 55070 -2 55018 -23 0 55066 55069 55070 55018 55130 -3 55018 55130 55018 55126 55018 55126 -2 55018 55130 -3 55018 55130 55018 55126 55130 55126 -3 55018 -21 0 55066 55069 55070 -2 55018 55130 55018 55130 55126 -8 55018 55130 55126 55018 55126 -2 55130 55126 -5 55018 -19 0 55066 55069 55070 -2 55018 55126 -4 55018 55126 55018 55126 55018 55126 55018 55126 -2 55018 -2 55130 55018 55130 -4 55018 55130 -3 55018 -4 55002 55016 55002 -2 55385 -5 55002 55385 -4 55002 55069 55070 -2 55018 -3 55130 -3 55018 55130 -8 55126 -2 55018 55130 55018 55126 -2 55130 55018 -2 55130 55126 -5 55018 55126 55018 55130 55018 55126 55018 55130 -2 55018 55130 55126 55018 55130 55018 55130 55126 55018 -3 55126 55018 55130 -2 55126 55130 -2 55018 55130 55018 55130 -3 55018 55130 -2 55018 55126 -2 55018 55130 -3 55018 55126 55130 55126 -2 55018 -3 55130 -3 55018 -2 55126 -4 55018 -2 55130 -4 55018 55130 55018 55126 -3 55018 55130 -3 55018 -4 55130 -3 55018 55130 55126 -3 55018 -2 55126 55018 55130 -3 55018 55130 55126 -3 55018 55130 -3 55018 55126 55018 55126 55018 55126 55018 55126 -3 55018 55130 55018 55126 -2 55018 55130 -5 55018 55126 55018 55126 55018 55130 55018 55130 55018 55126 55130 -2 55018 55130 55018 55130 -2 55018 55126 -2 55130 55018 55126 -2 55018 55126 55018 55130 55018 55130 55126 -2 55130 -2 55018 -2 55126 55130 -2 55126 -9 55018 55126 -10 55018 55130 55018 55130 -4 55018 -2 55130 55018 -2 55130 55018)
+    )
+  )
+  (tileset "/images/pure_sand_custom_tiles_v8.2.strf")
+)
