@@ -1,0 +1,41 @@
+(supertux-sprite
+  (action
+    (name "left")
+    (hitbox 8 13 32 32)
+    (fps 14)
+    (images "sandball-0.png"
+            "sandball-1.png"
+            "sandball-2.png"
+            "sandball-3.png"
+            "sandball-4.png"
+            "sandball-5.png"
+            "sandball-6.png"
+            "sandball-7.png")
+  )
+  (action
+    (name "right")
+    (hitbox 8 13 32 32)
+    (fps 14)
+    (mirror-action "left")
+  )
+  (action
+    (name "squished-left")
+    (hitbox 8 13 32 32)
+    (images "sandball-squished.png")
+  )
+  (action
+    (name "squished-right")
+    (hitbox 8 13 32 32)
+    (mirror-action "squished-left")
+  )
+  (action
+   (name "iced-left")
+   (hitbox 0 7 45 43)
+  (images "sandball-5.png")
+  )
+  (action
+   (name "iced-right")
+   (hitbox 0 7 45 43)
+   (mirror-action "iced-left")
+  )
+)
