@@ -7,9 +7,9 @@
   (icon "")
   (icon-locked "")
   (statistics
-    (enable-coins #t)
+    (enable-coins #f)
     (enable-badguys #f)
-    (enable-secrets #t)
+    (enable-secrets #f)
   )
   (sector
     (name "main")

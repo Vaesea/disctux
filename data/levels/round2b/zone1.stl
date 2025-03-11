@@ -480,7 +480,7 @@
     )
   )
   (sector
-    (name "sector2")
+    (name "minilevel")
     (ambient-light
       (color 1 1 1)
     )
